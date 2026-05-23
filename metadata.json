@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI",
+  "description": "AI-powered resume builder, ATS score optimizer, and cover letter generator designed for global job seekers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
